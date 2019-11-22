@@ -7,7 +7,7 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.ReadKey();
-            Console.WriteLine("Hello World in advance!");
+            Console.WriteLine("Hello World in advance! of what");
             Console.WriteLine("and yo");
             Console.ReadKey();
         }
